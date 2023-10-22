@@ -1,0 +1,11 @@
+[
+    { "id": 1, "nombre": "Polera básica blanca", "precio": 7990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5429109-600-900?v=1778004006&width=600&height=900&aspect=true" },
+    { "id": 2, "nombre": "Poleron Celeste", "precio": 4990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5467611-483-725/Poleron-hoodie-Relaxed-Fit---Azul---H-M-CL.jpg?v=638273290373400000" },
+    { "id": 3, "nombre": "Polerón básico Cafe", "precio": 15990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5046613-483-725/Poleron-hoodie-Relaxed-Fit---Marron---H-M-CL.jpg?v=638116912618600000" },
+    { "id": 4, "nombre": "Polerón básico negro", "precio": 9990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5299097-483-725/Poleron-Relaxed-Fit---Negro---H-M-CL.jpg?v=638201586566100000" },
+    { "id": 5, "nombre": "Short Verano Negro", "precio": 7990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5011606-483-725/Shorts-Relaxed-Fit---Negro---H-M-CL.jpg?v=638104815425800000" },
+    { "id": 6, "nombre": "Bolso bandolera", "precio": 13990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5367128-483-725/Bolso-bandolera---Negro---H-M-CL.jpg?v=638235282952770000" },
+    { "id": 7, "nombre": "Chaqueta Slim Formal", "precio": 49990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/4912162-483-725/Chaqueta-Slim-Fit---Azul-acero---H-M-CL.jpg?v=638065935701430000" },
+    { "id": 8, "nombre": "Pack de 2 guantes para smartphone", "precio": 5990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5490443-483-725/Pack-de-2-guantes-para-smartphone---Gris-oscuro-jaspeado-Negro---H-M-CL.jpg?v=638281064357870000" },
+    { "id": 9, "nombre": "Pantalón de verano Cafe", "precio": 22990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5635577-483-725/Pantalon-en-mezcla-de-lino-Regular-Fit---Marron---H-M-CL.jpg?v=638322222334330000" }
+]
