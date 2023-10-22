@@ -142,7 +142,7 @@ const cargarDetalle = () => {
     });
     if (carga == false) {
         loadCarrito();
-    }
+    };
     const detalleCarrito = document.getElementById("detalleCarritoText");
     const parrafoDetalle = document.createElement("p");
     detalleCarrito.innerHTML = ``;
